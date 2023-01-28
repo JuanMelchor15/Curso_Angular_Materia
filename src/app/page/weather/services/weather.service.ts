@@ -26,4 +26,5 @@ export class WeatherService {
         this.setData(value);
       });
   }
+
 }
